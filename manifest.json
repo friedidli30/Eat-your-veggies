@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Eat your veggies!",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(29, 102, 80)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(25, 25, 25)",
+      "tab_background_text": "rgb(27, 40, 45)",
+      "toolbar_field": "rgba(236, 236, 236, 0.66)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(0, 0, 0)",
+      "popup": "rgba(29, 102, 80, 0.95)",
+      "popup_text": "rgb(255, 255, 255)",
+      "ntp_background": "rgb(169, 210, 161)",
+      "popup_border": "rgb(255, 255, 255)",
+      "toolbar_bottom_separator": "rgb(39, 39, 39)",
+      "tab_loading": "rgb(0, 0, 0)"
+    }
+  }
+}
